@@ -2,7 +2,6 @@ en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_
 joblib==1.5.2
 numpy==2.3.5
 pandas==2.3.3
-regex==2.5.161
 scikit_learn==1.7.2
 streamlit==1.51.0
 spacy==3.8.14
